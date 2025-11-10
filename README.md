@@ -1,4 +1,4 @@
-# ProtoHax
+# ProtoHax （Nextgen coming soon）
 
 <img align="right" width="159px" src="https://raw.githubusercontent.com/SkidderMC/ProtoHax/stable/icon.png">
 
